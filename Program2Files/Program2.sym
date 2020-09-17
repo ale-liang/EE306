@@ -1,0 +1,13 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	A                       302B
+//	B                       302C
+//	ILoop                   3002
+//	RepeatSearch            3015
+//	RepeatSequence          3001
+//	checkNext               3019
+//	checkSentinel           3012
+//	checkSentinelTwo        3026
+//	endOfWord               3028
+//	noMatch                 3024
+//	noSwap                  3010

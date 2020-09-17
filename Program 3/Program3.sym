@@ -1,0 +1,16 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BLOCKS                  402A
+//	CURRENT_COL             415E
+//	CURRENT_ROW             415D
+//	ColNums                 416A
+//	DISPLAY_JUNGLE          4161
+//	GRID                    402B
+//	GRID_ADDRESS            417D
+//	HOME_COL                4160
+//	HOME_ROW                415F
+//	JUNGLE_INITIAL          4019
+//	JUNGLE_LOADED           4009
+//	LOAD_JUNGLE             417C
+//	myGridLoc               4169
+//	returnToPC              4168

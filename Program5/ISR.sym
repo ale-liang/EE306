@@ -1,0 +1,15 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DDR                     2618
+//	DSIEN                   2619
+//	DSR                     2617
+//	KBDR                    2616
+//	exit                    2611
+//	input                   261E
+//	intSaveR0               2614
+//	intSaveR1               2615
+//	is_valid                2610
+//	negA                    261A
+//	negC                    261B
+//	negG                    261C
+//	negU                    261D

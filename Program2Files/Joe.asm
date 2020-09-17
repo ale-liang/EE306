@@ -1,0 +1,3 @@
+	.ORIG	x4700
+	.STRINGZ "Joe"
+	.END
